@@ -30,7 +30,7 @@ Off-chain code: Typescript and Vue.js
 - NFT 민팅 사이트 기능 구현 (구체적인 홈페이지 디자인은 추후 예정)
 - NFT staking 기능 구현 
 
-
+<br>
 
 
 
