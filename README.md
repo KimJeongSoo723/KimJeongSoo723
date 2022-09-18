@@ -87,15 +87,3 @@ Aptos Validator Node 3차 테스터
 새로운 Layer1 체인인 Aptos에서 MainNet 출시를 위한 Validator-Node 성능 테스트를 위해 사람들을 모집하였습니다.
 
 
-
-
-[본인 역할]
-- Kotlin + MVVM + LiveData + Reterofit2
-- 식당 리스트 + 페이징 처리
-- 구글 맵을 활용하여 식당 리스트 표현
-- 식당 상세보기 Coornidator 적용 (배달의 민족 UI/UX 참고)
-- 식당 리뷰 추가/삭제/수정
-- 카카오 로그인 OAuth 2.0 적용
-- 서버 연동
-
-
