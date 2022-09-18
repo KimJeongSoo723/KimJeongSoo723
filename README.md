@@ -47,51 +47,40 @@ Off-chain code: Typescript and Vue.js
 SOLANA HACKER HOUSE KOREA 행사 참여
 --------------------------
 [행사 참여 기간]
+--------------------------
 2022.08.02~2022.08.06
 
-[주요 업무 ]
-눈팅족들을 위한 각 커뮤니티 사이트의 인기, 베스트, 추천 게시글만 모은 앱
-
-[구글 플레이 스토어 바로가기](http://bit.ly/2CFQEDF)
-
-![image1](./images/allcommunity1.jpg)
-![image2](./images/allcommunity2.jpg)
-![image3](./images/allcommunity3.jpg)
-![image4](./images/allcommunity4.jpg)
-![image5](./images/allcommunity5.jpg)
+[주요 업무]
+--------------------------
+- Team Mica 프로젝트 홍보
+- 신규 프로젝트 및 기존 프로젝트들의 Demo 시연 및 Solana chain 기술적 컨퍼런스 참여
+- 개발자들과의 Networking
 
 
-[프로젝트 인원]
-안드로이드 1명
+[참여 및 활동 사진]
+--------------------------
+
 
 [이번 행사를 통해 느낀 점]
-- Kotlin + MVVM + LiveData
-- Pull to Refresh Layout Custom
-- Jsoup을 이용한 커뮤니티 게시판 Parsing
-- Drag & Drop 을 이용한 게시판 순서 조절
-- 카카오 링크를 이용한 공유
+-------------------------
+- 암호화폐 시장이 긴 약세장에 진입했음에도 불구하고 너무도 많은 개발자들이 행사에 참여하고 자신의 프로덕트를 홍보함
+- Magic Eden의 규모가 상상 이상으로 엄청나게 커짐, SDK를 제공하는 Metaplex의 지분이 상당히 큼
+- 무료 행사임에도 불구하고 다양한 즐길거리,볼거리,networking 기회를 제공 (재단의 자본이 많음을 의미)
+- 동기부여 및 자극이 많이 되었음
 
 
-
-구내식당앱
+Aptos Validator Node 3차 테스터
 -------------
 [프로젝트 기간]
-2018-09-01 ~ 2019-01-01
+--------------------------
+2022-07-15 ~ 2022-09-07
 
 [프로젝트 내용]
-특정 지역 구내식당 리스트와 메뉴를 확인할 수 있는 앱.
+--------------------------
+새로운 Layer1 체인인 Aptos에서 MainNet 출시를 위한 Validator-Node 성능 테스트를 위해 사람들을 모집하였습니다.
 
-[안드로이드 프로젝트 보기](https://github.com/pennya/GudiCafeteria)
 
-![image1](./images/cafeteria1.PNG)
-![image2](./images/cafeteria2.PNG)
-![image3](./images/cafeteria3.PNG)
-![image4](./images/cafeteria4.PNG)
-![image5](./images/cafeteria5.PNG)
-![image6](./images/cafeteria6.PNG)
 
-[프로젝트 인원]
-안드로이드 1명, 백앤드 1명
 
 [본인 역할]
 - Kotlin + MVVM + LiveData + Reterofit2
