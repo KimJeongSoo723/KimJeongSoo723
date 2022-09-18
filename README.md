@@ -31,17 +31,17 @@ Off-chain code: Typescript and Vue.js
 - NFT staking 기능 구현 
 
 <br>
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 SOLANA HACKER HOUSE KOREA 행사 참여
