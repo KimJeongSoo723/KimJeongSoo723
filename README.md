@@ -68,6 +68,13 @@ SOLANA HACKER HOUSE KOREA 행사 참여
 - 무료 행사임에도 불구하고 다양한 즐길거리,볼거리,networking 기회를 제공 (재단의 자본이 많음을 의미)
 - 동기부여 및 자극이 많이 되었음
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 Aptos Validator Node 3차 테스터
 -------------
