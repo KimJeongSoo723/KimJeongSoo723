@@ -1,37 +1,32 @@
-# PORTFOLIO About Blockchain
-
-Solana Hacker House Korea
+THE CEO NFT project
 --------------------------
 [프로젝트 기간] 
-2022.08.02~2022.08.06
 
-[프로젝트 내용] 
-유튜브 크리에이터를 위한 판매 스토어 앱
+2022.08.10 ~ (Devnet 상에서 개발 진행 중)
 
-[CLAY 소개 페이지](https://criyou.com/)
-[구글 플레이 스토어 바로가기](https://play.google.com/store/apps/details?id=com.criyou.clay)
-[애플 스토어 바로가기](https://apps.apple.com/us/app/%ED%81%B4%EB%A0%88%EC%9D%B4/id1524293459)
+[개발페이지 바로가기]
 
-![image1](./images/clay1.png)
-![image2](./images/clay2.png)
-![image3](./images/clay3.png)
-![image4](./images/clay4.png)
-![image5](./images/clay5.png)
-![image6](./images/clay6.png)
+(https://KimJeongsoo723.github.io/)
 
+[사용 스택]
+On-chain code: Rust and Anchor framework
+Off-chain code: Typescript and Vue.js
 
+[How to staking?] 
+1. Devnet 상에서 무료 Sol받을 수 있는 사이트 링크 연결 
+2. 해당 무료 SOL을 바탕으로 NFT 민팅 가능(2가지 종류)
+3. 수령한 NFT를 바탕으로 Staking 페이지에서 Staking 가능 // THECEONFT만 Steaking 가능한 기능 구현
+4. NFT Staking시 경과한 시간에 따라 Custom token인 JSCOIN 수령 가능
 
-[프로젝트 인원] 안드로이드 2명
+[프로젝트 인원] 디자이너, 개발자, 기획자 및 커뮤니티 관리 총 3명
 
-[행사 참여 후기 및 성과]
-- Flutter, Dart, Provider
-- 스플레시 화면, 메인화면, 상세화면, 프로필 화면, 필터 UI 개발 및 기능 구현
-- 플랫폼(Android, iOS) 별 로그인, 권한 획득 기능
-- firebase 환경 구축 및 연동
+[개발자로서 맡은 역할]
+- trait의 attribute를 조합하여 만가지 디자인 파일 생성 
+- NFT 민팅 사이트 기능 구현 (구체적인 홈페이지 디자인은 추후 예정)
+- NFT staking 기능 구현 
 
 
-
-다모여커뮤니티
+SOLANA HACKER HOUSE KOREA
 -------------
 [프로젝트 기간]
 2019-02 ~ 2019-03
