@@ -64,13 +64,13 @@ SOLANA HACKER HOUSE KOREA 행사 참여
 <br>
 <img src = "./img/KakaoTalk_20220923_071723516.jpg">
 - 팀 홍보 부스 모습
-- <br>
+<br>
 <img src = "./img/KakaoTalk_20220923_071723516_03.jpg">
 - 프로젝트 진행하는 팀원들과 함께
-- <br>
+<br>
 <img src = "./img/KakaoTalk_20220923_071723516_02.jpg">
 - Metaplex Product Lead Matias와 함께
-- <br>
+<br>
 
 
 [이번 행사를 통해 느낀 점]
