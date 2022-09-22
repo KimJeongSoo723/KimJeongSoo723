@@ -98,4 +98,21 @@ Aptos Validator Node 3차 테스터
 --------------------------
 새로운 Layer1 체인인 Aptos에서 MainNet 출시를 위한 Validator-Node 성능 테스트를 위해 사람들을 모집하였습니다.
 
+For running an Aptos validator and fullnode we recommend the following hardware resources:
+
+CPU:
+8 cores, 16 threads
+2.8GHz, or faster
+Intel Xeon Skylake or newer
+Memory: 32GB RAM.
+Storage: 1T SSD with at least 40K IOPS and 200MiB/s bandwidth.
+Networking bandwidth: 1Gbps
+Example machine types on various clouds:
+
+AWS
+c6id.4xlarge (if use local SSD)
+c6i.8xlarge + io1/io2 EBS volume with 40K IOPS.
+GCP
+n2-standard-16 (if use local SSD)
+n2-standard-32 + pd-ssd with 40K IOPS.
 
