@@ -96,7 +96,7 @@ Aptos Validator Node 3차 테스터
 
 [프로젝트 내용]
 --------------------------
-새로운 Layer1 체인인 Aptos에서 MainNet 출시를 위한 Validator-Node 성능 테스트를 위해 사람들을 모집하였습니다.
+새로운 Layer1 체인인 Aptos에서 MainNet 출시를 위한 Validator-Node 성능 테스트를 위해 아래 Hardware Requirement 사양 이상의 컴퓨터를 가진 사람들을 모집하였습니다.
 
 For running an Aptos validator and fullnode we recommend the following hardware resources:
 
