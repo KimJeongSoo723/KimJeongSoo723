@@ -60,6 +60,11 @@ SOLANA HACKER HOUSE KOREA 행사 참여
 [참여 및 활동 사진]
 --------------------------
 <img src = "./img/KakaoTalk_20220923_071723516.jpg">
+<img src = "./img/KakaoTalk_20220923_071723516_01.jpg">
+<img src = "./img/KakaoTalk_20220923_071723516_02.jpg">
+<img src = "./img/KakaoTalk_20220923_071723516_03.jpg">
+<img src = "./img/KakaoTalk_20220923_071723516_04.jpg">
+
 
 [이번 행사를 통해 느낀 점]
 -------------------------
