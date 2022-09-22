@@ -116,6 +116,9 @@ GCP
 n2-standard-16 (if use local SSD)
 n2-standard-32 + pd-ssd with 40K IOPS.
 
+<img src = "./img/KakaoTalk_20220923_075150900.png">
+
+
 
 
 [느낀 점]
