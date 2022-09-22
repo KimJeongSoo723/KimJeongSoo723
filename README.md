@@ -59,7 +59,7 @@ SOLANA HACKER HOUSE KOREA 행사 참여
 
 [참여 및 활동 사진]
 --------------------------
-<img src = "./img/KakaoTalk_20220923_071723516_01.jpg">
+<img src = "./img/KakaoTalk_20220923_071723516_01.jpg"> {: width="100" height="100"}
 - 솔라나 해커하우스 입구
 <br>
 <img src = "./img/KakaoTalk_20220923_071723516.jpg">
