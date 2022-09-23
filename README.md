@@ -15,8 +15,12 @@ Off-chain code: Typescript and Vue.js
 
 [How to staking?] 
 --------------------------
+<img src = "./img/SolFaucet.png" width="400" height="400">
 1. Devnet 상에서 무료 Sol받을 수 있는 사이트 링크 연결 
+<img src = "./img/Beforemint.png" width="400" height="400">
+<img src = "./img/AfterMint.png" width="400" height="400">
 2. 해당 무료 SOL을 바탕으로 NFT 민팅 가능(2가지 종류)
+<img src = "./img/StakingPage.png" width="400" height="400">
 3. 수령한 NFT를 바탕으로 Staking 페이지에서 Staking 가능 // THECEONFT만 Steaking 가능한 기능 구현
 4. NFT Staking시 경과한 시간에 따라 Custom token인 JSCOIN 수령 가능
 
